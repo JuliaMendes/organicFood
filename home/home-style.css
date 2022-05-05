@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
 :root {
   --gray: #e8e8e8;
   --green: #489545;
@@ -9,6 +11,7 @@
   padding: 0;
   box-sizing: border-box;
   font-size: 16px;
+  font-family: 'Inter', sans-serif;
 }
 
 body {
