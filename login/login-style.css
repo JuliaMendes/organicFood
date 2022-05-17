@@ -42,6 +42,13 @@ header img {
   justify-content: center;
 }
 
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
 .cards {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -61,7 +68,8 @@ header img {
   cursor: pointer;
 }
 
-.email, .senha {
+.email,
+.senha {
   background: var(--gray);
   width: 350px;
   height: 60px;
@@ -79,5 +87,5 @@ header img {
   border: none;
   text-align: center;
   margin-top: 20px;
-  cursor: pointer
+  cursor: pointer;
 }
