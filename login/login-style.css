@@ -68,6 +68,10 @@ form {
   cursor: pointer;
 }
 
+.submit-button:active {
+  transform: scale(0.99);
+}
+
 .email,
 .senha {
   background: var(--gray);
@@ -88,4 +92,8 @@ form {
   text-align: center;
   margin-top: 20px;
   cursor: pointer;
+}
+
+.lost-key:hover {
+  color: #2a6328;
 }

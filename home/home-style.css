@@ -65,6 +65,10 @@ header img {
   padding-right: 10px;
 }
 
+.cards button:active {
+  transform: scale(0.99);
+}
+
 button.card-verde {
   background: var(--green);
   color: var(--gray);
@@ -89,6 +93,11 @@ button.card-cinza {
   width: 343px;
   height: 161px;
 }
+
+.card-doacao:active {
+  transform: scale(0.99);
+}
+
 .card-doacao img {
   margin-top: 10px;
   width: 243px;
