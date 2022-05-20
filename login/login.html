@@ -13,11 +13,12 @@
     </header>
     <main class="container">
       <form>
-        <input class="email" type="email" placeholder="E-mail" required><br>
-        <input class="senha "type="password" name="password" placeholder="Senha" minlength="8" maxlength="24" required><br>
+        <input class="email" type="text" placeholder="E-mail"><br>
+        <input class="senha "type="password" placeholder="Senha"><br>
+        <ul class="erros"></ul>
       <br>
       <section class="cards">
-        <button class="submit-button" type="submit" name="submit-button" value="Log in">
+        <button id="btnLogin" class="submit-button" type="submit" name="submit-button" value="Log in">
           <h2>Log In</h2>
         </button>
         <button class="submit-button" type="submit" name="submit-button" value="Cadastrar-se">
@@ -26,10 +27,11 @@
       </section>
     </form>
       <section>
-        <button class="lost-key" type="submit" name="lost-key-button" value="Esqueceu a sua senha?">
+        <button class="lost-key" name="lost-key-button" value="Esqueceu a sua senha?">
           Esqueceu a sua senha?
         </button>
       </section>
     </main>
   </body>
+  <script src="login.js"></script>
 </html>
