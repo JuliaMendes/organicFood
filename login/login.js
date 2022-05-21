@@ -30,6 +30,6 @@ btnLogin.onclick = (event) => {
   } else {
     form.submit()
     // CORRIGIR O LINK!!!!
-    window.location.href = "http://www.devmedia.com.br"; 
+    window.location.href = "https://isorganicfood.netlify.app/perfil-horta/perfil-horta.html"; 
   }
 }
