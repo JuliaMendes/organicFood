@@ -29,5 +29,7 @@ btnLogin.onclick = (event) => {
     })
   } else {
     form.submit()
+    // CORRIGIR O LINK!!!!
+    window.location.href = "http://www.devmedia.com.br"; 
   }
 }
