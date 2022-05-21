@@ -1,0 +1,3 @@
+[0521/193212.546:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acesso negado. (0x5)
+[0521/193212.567:ERROR:main_dll_loader_win.cc(140)] Failed to load Chrome DLL from C:\Program Files (x86)\Eastness\Application\57.0.2987.98\chrome.dll: Não foi possível encontrar o módulo especificado. (0x7E)
+[0521/193212.656:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acesso negado. (0x5)
