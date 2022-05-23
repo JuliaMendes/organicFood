@@ -48,6 +48,10 @@ header img {
   gap: 30px 16px;
 }
 
+.cards h2 {
+  margin-left: 4px;
+}
+
 .cards a {
   text-decoration: none;
 }
