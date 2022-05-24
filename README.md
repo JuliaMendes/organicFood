@@ -6,10 +6,11 @@
 ------------------------------
 
 * Objetivos
-  * Objetivo1
-  * Objetivo2
-  * Objetivo3
-
+  * Auxiliar e expandir a ONG ChildFund Brasil.
+  
+  * Aumentar o consumo de produtos orgânicos.
+  
+  * Aumentar o número de hortas orgânicas da agricultura familiar dentro de centros urbanos.
 <br>
 
 * Vídeo
