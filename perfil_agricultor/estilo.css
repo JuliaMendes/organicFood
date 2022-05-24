@@ -22,7 +22,7 @@ body {
 
 header {
     background: var(--green);
-    height: 200px;
+    height: 150px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -49,6 +49,8 @@ header .logout img{
 }
 
 section .ftperfil{
+  padding-top: 70px;
+  padding-bottom: 20px;
   display: flex;
   align-items: center;
   height: 35px;
